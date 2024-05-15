@@ -39,3 +39,6 @@ First, run the development server:
 yarn run dev
 
 Created by Ricardo Reyes
+
+
+## verions of node v18.19.0
